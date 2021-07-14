@@ -1,0 +1,126 @@
+.myrows{
+    border: 3px solid green;
+
+}
+
+.mycols{
+    border: 3px solid red;
+}
+.mycontainer{
+    background-color: aqua;
+    border: 3px solid red;
+}
+
+#topHeader{
+    background-color: ghostwhite;
+    border-bottom: 1px solid silver;
+
+}
+
+
+#topHeader a{
+    color: black;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.full-footer{
+    background-color:#34495e;
+   
+}
+#bottomHeader{
+    width: 100%;
+}
+
+.top-footer p{
+    color: white;
+}
+.top-footer a{
+    color: white;
+    font-weight: 600;
+}
+.top-footer h3{
+    color: white;
+    font-weight: 600;
+}
+.bottom-footer{
+    background-color: black;
+
+}
+.bottom-footer p{
+    background-color: black;
+    color: white;
+    
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.top-hero-section{
+
+    background-color:#f1c40f ;
+    color: white;
+
+}
+
+.qualities-img{
+    width: 200px;
+}
+
+
+.requirements-section{
+    background-color: #0984e3;
+
+}
+
+.requirements-section h3{
+    background-color: #0984e3;
+     color: white;
+}
+
+.home-newsletter{
+    background-color: #2980b9;
+    color: white;
+}
+
+
+.home-newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+
+/* Four values - border-radius: 15px 50px 30px 5px; (first value applies to top-left corner, second value applies to top-right corner, third value applies to bottom-right corner, and fourth value applies to bottom-left corner): */
+
+
+.home-newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: tomato;
+    color: white;
+}
+
+
+.breadcrumbs-section{
+    background-color:#c8d6e5;
+}
+
+.address p{
+    font-weight: 600;
+}
+
+
+.bar{
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 17px ;
+    border: 1px solid gray;
+}
